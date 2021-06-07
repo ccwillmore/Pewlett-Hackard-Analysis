@@ -20,10 +20,10 @@ The extracted data files have been exported as .csv files.
 Several observations can be made from the compiled data.  
 - 30,398 employees are expected to retire within the next 3 years,  approximately 13% of the active workforce.  This is an enormous loss of experience and knowledge.  
 - The expected retirements are weighted toward senior technical staff- as would be expected.  These positions will likely be filled through promotion from within the organization.  Both promoted employees and the new hires required to back-fill at lower levels will need to be mentored and trained.  One retiring senior level employee could result in 2 or more promotions and one new hire.  Conservatively, 30,398 retiring employees could require 60,796 or more employees to be mentored in new positions.  
-[retirements by job title](Analysis_Projects_Folder/Pewlett-Hackard-Analysis_Folder/retirements_by_job_title.png)  
+![retirements by job title](Analysis_Projects_Folder/Pewlett-Hackard-Analysis_Folder/retirements_by_job_title.png)  
 - 1,549 employees have been identified as eligible to be mentors.  This number is likely inadequate to satisfy the need.  
 - The identified list of mentors contain 529 Senior Engineers and 569 Senior Staff.  This is likely inadequate to mentor the expected 84,133 engineer and staff retirements.  
-[Mentors by job title](Analysis_Projects_Folder/Pewlett-Hackard-Analysis_Folder/mentors_by_job_title.png)  
+![Mentors by job title](Analysis_Projects_Folder/Pewlett-Hackard-Analysis_Folder/mentors_by_job_title.png)  
   
 ## Summary  
   

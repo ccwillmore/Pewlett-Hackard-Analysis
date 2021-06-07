@@ -12,7 +12,7 @@ The goals of this analysis are to understand the demographics of the work force 
 ## Results
   
 The extracted data files have been exported as .csv files.  
-[all titles for potnetially retiring employees](Analysis_Projects_Folder/Pewlett-Hackard-Analysis_Folder/Data/retirement_titles.csv)
+[all titles for potnetially retiring employees](Analysis_Projects_Folder/Pewlett-Hackard-Analysis_Folder/Data/retirement_titles.csv)  
 [Current titles for potnetially retiring employees](Analysis_Projects_Folder/Pewlett-Hackard-Analysis_Folder/Data/unique_titles.csv)  
 [numbers of possibly retiring employees by title](Analysis_Projects_Folder/Pewlett-Hackard-Analysis_Folder/Data/retiring_titles.csv)  
 [possible mentors](Analysis_Projects_Folder/Pewlett-Hackard-Analysis_Folder/Data/mentorship_leigibility.csv)   
